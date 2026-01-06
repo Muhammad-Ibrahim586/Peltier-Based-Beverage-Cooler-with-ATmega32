@@ -1,0 +1,19 @@
+# Compiled object files
+*.o
+*.elf
+*.hex
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+
+# Proteus project files (optional)
+*.DSN
+*.IDX
+*.LIB
+*.SRC
+
+# IDE-specific
+.vscode/
+.idea/
