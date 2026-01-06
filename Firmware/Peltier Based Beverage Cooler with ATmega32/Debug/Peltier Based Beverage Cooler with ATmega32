@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Files downloaded by me\ATMEL or Microchip\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>D:\Files downloaded by me\ATMEL or Microchip\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Files downloaded by me\ATMEL or Microchip\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m32def.inc</FILE>
+  <FILE>D:/Files downloaded by me\ATMEL or Microchip\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\Debug\MIP Project 23i-6090 23i-6060.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MIP Project 23i-6090 23i-6060.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MIP Project 23i-6090 23i-6060.map</FILE>
+  <FILE>MIP Project 23i-6090 23i-6060.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <DELAY_2ms><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>148</LINE></DELAY_2ms>
+  <CMNDWRT><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>112</LINE></CMNDWRT>
+  <MAIN><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>51</LINE></MAIN>
+  <WAIT_ADC><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>59</LINE></WAIT_ADC>
+  <GET_TENS><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>78</LINE></GET_TENS>
+  <DONE_TENS><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>85</LINE></DONE_TENS>
+  <DATAWRT><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>122</LINE></DATAWRT>
+  <CHECK_TEMP_LIMIT><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>195</LINE></CHECK_TEMP_LIMIT>
+  <DELAY_1s><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>168</LINE></DELAY_1s>
+  <SDELAY><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>133</LINE></SDELAY>
+  <DELAY_100_us><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>138</LINE></DELAY_100_us>
+  <DR0><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>141</LINE></DR0>
+  <LDR0><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>151</LINE></LDR0>
+  <DELAY_4ms><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>158</LINE></DELAY_4ms>
+  <LDR1><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>161</LINE></LDR1>
+  <LDR2><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>171</LINE></LDR2>
+  <DELAY_2m><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>178</LINE></DELAY_2m>
+  <LOOP_MINS><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>182</LINE></LOOP_MINS>
+  <LOOP_SECS><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>184</LINE></LOOP_SECS>
+  <TURN_ON><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>202</LINE></TURN_ON>
+  <END_CHECK><FILE>D:\Fast NUCES Islamabad Campus\5th Semester\EL3002 �P Interfacing and Programming - Lab\Project\Main Files\MIP Project 23i-6090 23i-6060\MIP Project 23i-6090 23i-6060\main.asm</FILE><LINE>204</LINE></END_CHECK>
+ </LABELS>
+</ASSEMBLER_INFO>
