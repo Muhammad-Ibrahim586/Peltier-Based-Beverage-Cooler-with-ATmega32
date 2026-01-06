@@ -25,10 +25,10 @@ This project implements a microcontroller-based beverage cooling system using a 
 7) 16×2 LCD
 
 ## Repository Structure
-1) 'firmware/' – AVR assembly source code  
-2) 'simulation/' – Proteus simulation files and screenshots  
-3) 'hardware/' – Hardware setup images  
-4) 'docs/' – Project report
+1) 'firmware' – AVR assembly source code  
+2) 'simulation' – Proteus simulation files and screenshots  
+3) 'hardware' – Hardware setup images  
+4) 'docs' – Project report
 
 ## Notes
 This project demonstrates embedded system design, low-level microcontroller programming, and practical hardware–software integration.
